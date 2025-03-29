@@ -1,4 +1,14 @@
 # 🍽️ Módulo de Gestão de Pedidos - Restaurante
+
+## 👥 Contribuidores
+ 
+- Matheus Farias de Lima - RM554254  
+- Miguel Mauricio Parrado Patarroyo - RM554007  
+- Larissa Estela Gonçalves - RM552695  
+- Vitor Pinheiro Nascimento - RM553693  
+- Pedro Henrique Chaves - RM553988
+
+---
  
 Este repositório contém o código-fonte e a documentação do módulo **Gestão de Pedidos**, desenvolvido para o domínio **[www.restaurante.com.br](http://www.restaurante.com.br)**, seguindo os princípios de **Domain-Driven Design (DDD)**.  
 O sistema permite **registrar, consultar e listar pedidos**, integrando **validações de negócio** e **persistência em banco de dados Oracle**.
@@ -93,12 +103,3 @@ src/main/java
     └── PedidoDAO.java
 ```
  
----
- 
-## 👥 Contribuidores
- 
-- Matheus Farias de Lima - RM554254  
-- Miguel Mauricio Parrado Patarroyo - RM554007  
-- Larissa Estela Gonçalves - RM552695  
-- Vitor Pinheiro Nascimento - RM553693  
-- Pedro Henrique Chaves - RM553988
